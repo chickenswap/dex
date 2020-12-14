@@ -1,24 +1,24 @@
 {
   "files": {
-    "static/js/0.7e15681d.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/0.7e15681d.chunk.js",
-    "static/js/1.8ebee1df.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/1.8ebee1df.chunk.js",
-    "main.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/main.8f285452.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/runtime-main.258eebe1.js",
+    "static/js/0.a743494b.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/0.a743494b.chunk.js",
+    "static/js/1.05d11b54.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/1.05d11b54.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/main.8b4135bd.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/runtime-main.3da42d33.js",
     "static/css/4.1bc9c7ca.chunk.css": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/css/4.1bc9c7ca.chunk.css",
-    "static/js/4.452c0fe3.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/4.452c0fe3.chunk.js",
-    "static/js/5.55a23c41.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/5.55a23c41.chunk.js",
-    "static/js/6.10f72838.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/6.10f72838.chunk.js",
-    "static/js/7.0952ed93.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/7.0952ed93.chunk.js",
-    "static/js/8.7f61c3ff.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/8.7f61c3ff.chunk.js",
-    "static/js/9.75dafd8f.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/9.75dafd8f.chunk.js",
+    "static/js/4.dce8667f.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/4.dce8667f.chunk.js",
+    "static/js/5.0e89945d.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/5.0e89945d.chunk.js",
+    "static/js/6.2910a6e1.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/6.2910a6e1.chunk.js",
+    "static/js/7.015eb7e5.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/7.015eb7e5.chunk.js",
+    "static/js/8.d2f84738.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/8.d2f84738.chunk.js",
+    "static/js/9.5c629b50.chunk.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/9.5c629b50.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/index.html",
-    "precache-manifest.96edcfbca0a0bc8d9767e1a006f47af1.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/precache-manifest.96edcfbca0a0bc8d9767e1a006f47af1.js",
+    "precache-manifest.7112df1fbf0b9a9883f45f50ae96f068.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/precache-manifest.7112df1fbf0b9a9883f45f50ae96f068.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/service-worker.js",
-    "static/js/0.7e15681d.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/0.7e15681d.chunk.js.LICENSE.txt",
-    "static/js/4.452c0fe3.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/4.452c0fe3.chunk.js.LICENSE.txt",
-    "static/js/5.55a23c41.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/5.55a23c41.chunk.js.LICENSE.txt",
-    "static/js/6.10f72838.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/6.10f72838.chunk.js.LICENSE.txt",
-    "static/js/9.75dafd8f.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/9.75dafd8f.chunk.js.LICENSE.txt",
+    "static/js/0.a743494b.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/0.a743494b.chunk.js.LICENSE.txt",
+    "static/js/4.dce8667f.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/4.dce8667f.chunk.js.LICENSE.txt",
+    "static/js/5.0e89945d.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/5.0e89945d.chunk.js.LICENSE.txt",
+    "static/js/6.2910a6e1.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/6.2910a6e1.chunk.js.LICENSE.txt",
+    "static/js/9.5c629b50.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/js/9.5c629b50.chunk.js.LICENSE.txt",
     "static/media/inter.css": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/media/Inter.var.f065685b.woff2",
     "static/media/arrow-down-blue.svg": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/media/arrow-down-blue.cd061363.svg",
     "static/media/arrow-down-grey.svg": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/media/arrow-down-grey.c0dedd2f.svg",
@@ -50,9 +50,9 @@
     "static/media/xl_uni.png": "https://cdn.jsdelivr.net/gh/chickenswap/dex@main/static/media/xl_uni.ed12c533.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.258eebe1.js",
+    "static/js/runtime-main.3da42d33.js",
     "static/css/4.1bc9c7ca.chunk.css",
-    "static/js/4.452c0fe3.chunk.js",
-    "static/js/main.8f285452.chunk.js"
+    "static/js/4.dce8667f.chunk.js",
+    "static/js/main.8b4135bd.chunk.js"
   ]
 }
